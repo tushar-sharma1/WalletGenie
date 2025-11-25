@@ -1,6 +1,6 @@
 # WalletGenie 🧞‍♂️
 
-WalletGenie is an AI-powered savings advisor built for the Google Antigravity Hackathon. It analyzes your bank statements (CSV) and helps you plan your savings using Gemini.
+WalletGenie is an AI-powered savings advisor built  It analyzes your bank statements (CSV) and helps you plan your savings using Gemini.
 
 ## ✨ Key Features
 
