@@ -1,0 +1,91 @@
+date,description,amount,category
+2024-06-01,Salary Deposit,5000.00,Income
+2024-06-02,Starbucks Coffee,-4.50,Food
+2024-06-02,Uber Ride,-12.00,Transport
+2024-06-03,Grocery Store,-85.50,Food
+2024-06-05,Netflix Subscription,-15.99,Entertainment
+2024-06-07,Gas Station,-45.00,Transport
+2024-06-08,Restaurant Dinner,-67.80,Food
+2024-06-10,Amazon Purchase,-123.45,Shopping
+2024-06-12,Gym Membership,-49.99,Health
+2024-06-15,Rent Payment,-1200.00,Housing
+2024-06-18,Electric Bill,-78.50,Utilities
+2024-06-20,Movie Tickets,-28.00,Entertainment
+2024-06-22,Pharmacy,-32.80,Health
+2024-06-25,Gas Station,-50.00,Transport
+2024-06-28,Grocery Store,-92.30,Food
+2024-06-30,Coffee Shop,-6.75,Food
+2024-07-01,Salary Deposit,5000.00,Income
+2024-07-03,Restaurant Lunch,-45.60,Food
+2024-07-05,Uber Eats,-34.50,Food
+2024-07-07,Clothing Store,-156.90,Shopping
+2024-07-08,Gas Station,-48.00,Transport
+2024-07-10,Spotify Premium,-9.99,Entertainment
+2024-07-12,Dentist Appointment,-150.00,Health
+2024-07-15,Rent Payment,-1200.00,Housing
+2024-07-18,Internet Bill,-65.00,Utilities
+2024-07-20,Bar/Drinks,-45.00,Entertainment
+2024-07-22,Grocery Store,-88.70,Food
+2024-07-25,Target Shopping,-78.90,Shopping
+2024-07-27,Car Insurance,-120.00,Insurance
+2024-07-30,Coffee Shop,-5.50,Food
+2024-08-01,Salary Deposit,5000.00,Income
+2024-08-02,Breakfast Cafe,-18.50,Food
+2024-08-04,Online Course,-99.00,Education
+2024-08-06,Gas Station,-52.00,Transport
+2024-08-08,Restaurant Dinner,-89.40,Food
+2024-08-10,Amazon Prime,-14.99,Shopping
+2024-08-12,Gym Membership,-49.99,Health
+2024-08-15,Rent Payment,-1200.00,Housing
+2024-08-18,Water Bill,-42.30,Utilities
+2024-08-20,Concert Tickets,-85.00,Entertainment
+2024-08-22,Grocery Store,-95.20,Food
+2024-08-25,Home Depot,-145.60,Shopping
+2024-08-27,Uber Ride,-15.50,Transport
+2024-08-29,Pizza Delivery,-32.00,Food
+2024-08-31,Savings Transfer,500.00,Savings
+2024-09-01,Salary Deposit,5000.00,Income
+2024-09-03,Coffee Shop,-7.25,Food
+2024-09-05,Gas Station,-55.00,Transport
+2024-09-07,Restaurant,-76.90,Food
+2024-09-09,Electronics Store,-299.99,Shopping
+2024-09-10,Netflix Subscription,-15.99,Entertainment
+2024-09-12,Doctor Visit,-50.00,Health
+2024-09-15,Rent Payment,-1200.00,Housing
+2024-09-18,Electric Bill,-82.40,Utilities
+2024-09-20,Grocery Store,-102.30,Food
+2024-09-22,Bookstore,-45.80,Education
+2024-09-25,Car Maintenance,-189.00,Transport
+2024-09-27,Pharmacy,-28.50,Health
+2024-09-29,Restaurant,-54.20,Food
+2024-09-30,Savings Transfer,500.00,Savings
+2024-10-01,Salary Deposit,5000.00,Income
+2024-10-02,Starbucks,-6.50,Food
+2024-10-04,Uber Ride,-18.00,Transport
+2024-10-06,Grocery Store,-87.60,Food
+2024-10-08,Gym Membership,-49.99,Health
+2024-10-10,Spotify Premium,-9.99,Entertainment
+2024-10-12,Gas Station,-58.00,Transport
+2024-10-15,Rent Payment,-1200.00,Housing
+2024-10-18,Internet Bill,-65.00,Utilities
+2024-10-20,Restaurant Dinner,-92.50,Food
+2024-10-22,Clothing Shopping,-167.80,Shopping
+2024-10-25,Movie Theater,-32.00,Entertainment
+2024-10-27,Grocery Store,-94.30,Food
+2024-10-29,Home Supplies,-78.90,Shopping
+2024-10-31,Savings Transfer,500.00,Savings
+2024-11-01,Salary Deposit,5000.00,Income
+2024-11-03,Coffee Shop,-5.75,Food
+2024-11-05,Gas Station,-48.00,Transport
+2024-11-07,Restaurant Lunch,-42.30,Food
+2024-11-09,Amazon Purchase,-134.50,Shopping
+2024-11-10,Netflix Subscription,-15.99,Entertainment
+2024-11-12,Dentist Checkup,-100.00,Health
+2024-11-15,Rent Payment,-1200.00,Housing
+2024-11-18,Electric Bill,-76.50,Utilities
+2024-11-20,Grocery Store,-98.40,Food
+2024-11-22,Thanksgiving Dinner,-156.70,Food
+2024-11-24,Black Friday Shopping,-289.99,Shopping
+2024-11-27,Car Insurance,-120.00,Insurance
+2024-11-29,Pharmacy,-35.60,Health
+2024-11-30,Savings Transfer,500.00,Savings

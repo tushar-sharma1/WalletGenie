@@ -1,0 +1,15 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #3f51b5;
+}
+
+button {
+  transition: background-color 0.3s;
+}

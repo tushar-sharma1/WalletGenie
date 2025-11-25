@@ -1,0 +1,408 @@
+date,description,amount,type,category,source
+2024-11-25,Groceries,135.65,debit,Food,Food
+2024-11-26,Electric Bill,161.15,debit,Utilities,Utilities
+2024-11-28,Spotify,26.61,debit,Entertainment,Entertainment
+2024-11-29,Spotify,49.55,debit,Entertainment,Entertainment
+2024-11-30,Bar/Club,80.78881775723255,debit,Entertainment,Entertainment
+2024-11-30,Fancy Dinner,180.1686725891226,debit,Food,Food
+2024-12-01,Rent,2400.0,debit,Housing,Housing
+2024-12-01,Salary,5500.0,credit,Income,Income
+2024-12-01,Electric Bill,123.80459139840862,debit,Utilities,Utilities
+2024-12-01,Internet,60.0,debit,Utilities,Utilities
+2024-12-01,Netflix,15.99,debit,Entertainment,Entertainment
+2024-12-01,Spotify,9.99,debit,Entertainment,Entertainment
+2024-12-01,Gym,49.99,debit,Health,Health
+2024-12-01,Netflix,29.25,debit,Entertainment,Entertainment
+2024-12-02,Uber,41.57,debit,Transport,Transport
+2024-12-03,Electric Bill,117.97,debit,Utilities,Utilities
+2024-12-05,Uber,30.56,debit,Transport,Transport
+2024-12-06,Car Insurance,141.91,debit,Transport,Transport
+2024-12-07,Bar/Club,73.09752769388903,debit,Entertainment,Entertainment
+2024-12-07,Fancy Dinner,246.05950993918012,debit,Food,Food
+2024-12-08,Amazon,294.01,debit,Shopping,Shopping
+2024-12-08,Bar/Club,92.54730043598963,debit,Entertainment,Entertainment
+2024-12-08,Fancy Dinner,244.95003262851552,debit,Food,Food
+2024-12-09,Dining Out,55.0,debit,Food,Food
+2024-12-11,Netflix,26.92,debit,Entertainment,Entertainment
+2024-12-12,Car Insurance,187.03,debit,Transport,Transport
+2024-12-13,Electric Bill,120.9,debit,Utilities,Utilities
+2024-12-14,Groceries,177.82,debit,Food,Food
+2024-12-14,Bar/Club,86.85553620089777,debit,Entertainment,Entertainment
+2024-12-14,Fancy Dinner,205.98738356533624,debit,Food,Food
+2024-12-16,Dining Out,79.07,debit,Food,Food
+2024-12-18,Uber,34.08,debit,Transport,Transport
+2024-12-19,Spotify,41.6,debit,Entertainment,Entertainment
+2024-12-21,Gym,191.21,debit,Health,Health
+2024-12-21,Bar/Club,68.36225524447347,debit,Entertainment,Entertainment
+2024-12-21,Fancy Dinner,157.24063568593294,debit,Food,Food
+2024-12-22,Bar/Club,145.04681888314252,debit,Entertainment,Entertainment
+2024-12-22,Fancy Dinner,231.6606605668504,debit,Food,Food
+2024-12-25,Spotify,26.34,debit,Entertainment,Entertainment
+2024-12-28,Groceries,184.26,debit,Food,Food
+2024-12-28,Bar/Club,70.39683636038066,debit,Entertainment,Entertainment
+2024-12-28,Fancy Dinner,240.3881248990882,debit,Food,Food
+2024-12-29,Uber,44.96,debit,Transport,Transport
+2024-12-29,Bar/Club,83.59220890717754,debit,Entertainment,Entertainment
+2024-12-29,Fancy Dinner,185.08896010861167,debit,Food,Food
+2024-12-31,Groceries,124.03,debit,Food,Food
+2025-01-01,Rent,2400.0,debit,Housing,Housing
+2025-01-01,Salary,5500.0,credit,Income,Income
+2025-01-01,Electric Bill,127.52193728144056,debit,Utilities,Utilities
+2025-01-01,Internet,60.0,debit,Utilities,Utilities
+2025-01-01,Netflix,15.99,debit,Entertainment,Entertainment
+2025-01-01,Spotify,9.99,debit,Entertainment,Entertainment
+2025-01-01,Gym,49.99,debit,Health,Health
+2025-01-01,Netflix,28.39,debit,Entertainment,Entertainment
+2025-01-03,Uber,27.53,debit,Transport,Transport
+2025-01-04,Groceries,147.41,debit,Food,Food
+2025-01-05,Bar/Club,76.40520285689237,debit,Entertainment,Entertainment
+2025-01-05,Fancy Dinner,231.16778552054106,debit,Food,Food
+2025-01-06,Gym,183.44,debit,Health,Health
+2025-01-08,Spotify,17.08,debit,Entertainment,Entertainment
+2025-01-09,Groceries,134.78,debit,Food,Food
+2025-01-11,Spotify,33.87,debit,Entertainment,Entertainment
+2025-01-11,Bar/Club,87.87726096131314,debit,Entertainment,Entertainment
+2025-01-11,Fancy Dinner,204.1743039048494,debit,Food,Food
+2025-01-12,Gym,271.18,debit,Health,Health
+2025-01-14,Groceries,145.56,debit,Food,Food
+2025-01-17,Amazon,213.04,debit,Shopping,Shopping
+2025-01-18,Bar/Club,54.090162610673865,debit,Entertainment,Entertainment
+2025-01-18,Fancy Dinner,231.68447643585807,debit,Food,Food
+2025-01-19,Amazon,255.17,debit,Shopping,Shopping
+2025-01-19,Bar/Club,80.73543009173783,debit,Entertainment,Entertainment
+2025-01-19,Fancy Dinner,142.40214961951972,debit,Food,Food
+2025-01-21,Amazon,241.55,debit,Shopping,Shopping
+2025-01-22,Dining Out,77.58,debit,Food,Food
+2025-01-24,Uber,25.48,debit,Transport,Transport
+2025-01-25,Gym,164.95,debit,Health,Health
+2025-01-26,Amazon,53.44,debit,Shopping,Shopping
+2025-01-28,Groceries,154.09,debit,Food,Food
+2025-01-31,Car Insurance,171.63,debit,Transport,Transport
+2025-02-01,Rent,2400.0,debit,Housing,Housing
+2025-02-01,Salary,5500.0,credit,Income,Income
+2025-02-01,Electric Bill,120.90038363595737,debit,Utilities,Utilities
+2025-02-01,Internet,60.0,debit,Utilities,Utilities
+2025-02-01,Netflix,15.99,debit,Entertainment,Entertainment
+2025-02-01,Spotify,9.99,debit,Entertainment,Entertainment
+2025-02-01,Gym,49.99,debit,Health,Health
+2025-02-01,Gym,239.59,debit,Health,Health
+2025-02-01,Bar/Club,135.24419632796946,debit,Entertainment,Entertainment
+2025-02-01,Fancy Dinner,111.2339075841788,debit,Food,Food
+2025-02-03,Gym,116.78,debit,Health,Health
+2025-02-04,Uber,26.35,debit,Transport,Transport
+2025-02-06,Spotify,33.67,debit,Entertainment,Entertainment
+2025-02-07,Uber,30.77,debit,Transport,Transport
+2025-02-08,Gym,282.29,debit,Health,Health
+2025-02-08,Bar/Club,69.82064402290106,debit,Entertainment,Entertainment
+2025-02-08,Fancy Dinner,224.47875235145216,debit,Food,Food
+2025-02-09,Bar/Club,55.61948067396628,debit,Entertainment,Entertainment
+2025-02-09,Fancy Dinner,129.8394898936535,debit,Food,Food
+2025-02-10,Car Insurance,147.88,debit,Transport,Transport
+2025-02-12,Car Insurance,148.61,debit,Transport,Transport
+2025-02-13,Amazon,78.93,debit,Shopping,Shopping
+2025-02-14,Car Insurance,183.89,debit,Transport,Transport
+2025-02-15,Bar/Club,114.32680752213969,debit,Entertainment,Entertainment
+2025-02-15,Fancy Dinner,144.24401010733158,debit,Food,Food
+2025-02-18,Netflix,16.65,debit,Entertainment,Entertainment
+2025-02-19,Amazon,134.76,debit,Shopping,Shopping
+2025-02-20,Uber,22.68,debit,Transport,Transport
+2025-02-21,Dining Out,52.48,debit,Food,Food
+2025-02-22,Electric Bill,111.61,debit,Utilities,Utilities
+2025-02-23,Dining Out,78.36,debit,Food,Food
+2025-03-01,Rent,2400.0,debit,Housing,Housing
+2025-03-01,Salary,5500.0,credit,Income,Income
+2025-03-01,Electric Bill,155.15412082851765,debit,Utilities,Utilities
+2025-03-01,Internet,60.0,debit,Utilities,Utilities
+2025-03-01,Netflix,15.99,debit,Entertainment,Entertainment
+2025-03-01,Spotify,9.99,debit,Entertainment,Entertainment
+2025-03-01,Gym,49.99,debit,Health,Health
+2025-03-01,Electric Bill,178.6,debit,Utilities,Utilities
+2025-03-01,Bar/Club,57.90649394662848,debit,Entertainment,Entertainment
+2025-03-01,Fancy Dinner,240.6595499105582,debit,Food,Food
+2025-03-02,Bar/Club,69.47925752792295,debit,Entertainment,Entertainment
+2025-03-02,Fancy Dinner,195.61776028593516,debit,Food,Food
+2025-03-03,Car Insurance,145.48,debit,Transport,Transport
+2025-03-05,Netflix,27.9,debit,Entertainment,Entertainment
+2025-03-06,Netflix,41.65,debit,Entertainment,Entertainment
+2025-03-08,Electric Bill,165.41,debit,Utilities,Utilities
+2025-03-08,Bar/Club,105.30886270732869,debit,Entertainment,Entertainment
+2025-03-08,Fancy Dinner,188.12853000398758,debit,Food,Food
+2025-03-09,Car Insurance,163.12,debit,Transport,Transport
+2025-03-12,Amazon,223.8,debit,Shopping,Shopping
+2025-03-13,Gym,199.37,debit,Health,Health
+2025-03-15,Bar/Club,138.30159651558893,debit,Entertainment,Entertainment
+2025-03-15,Fancy Dinner,203.68499536843876,debit,Food,Food
+2025-03-16,Gym,299.04,debit,Health,Health
+2025-03-17,Amazon,256.29,debit,Shopping,Shopping
+2025-03-19,Spotify,36.74,debit,Entertainment,Entertainment
+2025-03-23,Bar/Club,52.73901786913713,debit,Entertainment,Entertainment
+2025-03-23,Fancy Dinner,149.15408734781892,debit,Food,Food
+2025-03-24,Netflix,36.3,debit,Entertainment,Entertainment
+2025-03-25,Gym,191.87,debit,Health,Health
+2025-03-26,Groceries,157.7,debit,Food,Food
+2025-03-27,Amazon,254.57,debit,Shopping,Shopping
+2025-03-28,Uber,21.79,debit,Transport,Transport
+2025-03-29,Bar/Club,74.3594957430297,debit,Entertainment,Entertainment
+2025-03-29,Fancy Dinner,164.60935283654413,debit,Food,Food
+2025-03-30,Car Insurance,157.83,debit,Transport,Transport
+2025-03-31,Netflix,19.9,debit,Entertainment,Entertainment
+2025-04-01,Rent,2400.0,debit,Housing,Housing
+2025-04-01,Salary,5500.0,credit,Income,Income
+2025-04-01,Electric Bill,140.13110743240378,debit,Utilities,Utilities
+2025-04-01,Internet,60.0,debit,Utilities,Utilities
+2025-04-01,Netflix,15.99,debit,Entertainment,Entertainment
+2025-04-01,Spotify,9.99,debit,Entertainment,Entertainment
+2025-04-01,Gym,49.99,debit,Health,Health
+2025-04-01,Amazon,117.56,debit,Shopping,Shopping
+2025-04-02,Gym,171.68,debit,Health,Health
+2025-04-04,Netflix,38.17,debit,Entertainment,Entertainment
+2025-04-05,Bar/Club,86.58465146939416,debit,Entertainment,Entertainment
+2025-04-05,Fancy Dinner,111.43715812506589,debit,Food,Food
+2025-04-06,Car Insurance,126.6,debit,Transport,Transport
+2025-04-07,Uber,25.79,debit,Transport,Transport
+2025-04-08,Amazon,109.11,debit,Shopping,Shopping
+2025-04-09,Amazon,219.2,debit,Shopping,Shopping
+2025-04-11,Netflix,36.28,debit,Entertainment,Entertainment
+2025-04-12,Gym,195.26,debit,Health,Health
+2025-04-14,Electric Bill,112.93,debit,Utilities,Utilities
+2025-04-16,Netflix,41.0,debit,Entertainment,Entertainment
+2025-04-17,Gym,212.62,debit,Health,Health
+2025-04-18,Groceries,118.94,debit,Food,Food
+2025-04-19,Bar/Club,146.78468831831606,debit,Entertainment,Entertainment
+2025-04-19,Fancy Dinner,199.0998796214636,debit,Food,Food
+2025-04-21,Dining Out,70.88,debit,Food,Food
+2025-04-22,Dining Out,53.19,debit,Food,Food
+2025-04-24,Groceries,140.26,debit,Food,Food
+2025-04-29,Car Insurance,182.38,debit,Transport,Transport
+2025-04-30,Netflix,35.77,debit,Entertainment,Entertainment
+2025-05-01,Rent,2400.0,debit,Housing,Housing
+2025-05-01,Salary,5500.0,credit,Income,Income
+2025-05-01,Electric Bill,178.5025095471656,debit,Utilities,Utilities
+2025-05-01,Internet,60.0,debit,Utilities,Utilities
+2025-05-01,Netflix,15.99,debit,Entertainment,Entertainment
+2025-05-01,Spotify,9.99,debit,Entertainment,Entertainment
+2025-05-01,Gym,49.99,debit,Health,Health
+2025-05-01,Electric Bill,161.39,debit,Utilities,Utilities
+2025-05-03,Gym,131.25,debit,Health,Health
+2025-05-04,Electric Bill,140.83,debit,Utilities,Utilities
+2025-05-04,Bar/Club,132.68374269219368,debit,Entertainment,Entertainment
+2025-05-04,Fancy Dinner,248.10525642772862,debit,Food,Food
+2025-05-05,Groceries,109.73,debit,Food,Food
+2025-05-07,Spotify,38.04,debit,Entertainment,Entertainment
+2025-05-09,Amazon,130.83,debit,Shopping,Shopping
+2025-05-10,Electric Bill,193.72,debit,Utilities,Utilities
+2025-05-11,Bar/Club,110.84440673576452,debit,Entertainment,Entertainment
+2025-05-11,Fancy Dinner,120.8258308075473,debit,Food,Food
+2025-05-12,Groceries,128.39,debit,Food,Food
+2025-05-13,Groceries,111.81,debit,Food,Food
+2025-05-14,Dining Out,82.38,debit,Food,Food
+2025-05-15,Gym,292.32,debit,Health,Health
+2025-05-17,Bar/Club,146.90665389346526,debit,Entertainment,Entertainment
+2025-05-17,Fancy Dinner,124.32058355337821,debit,Food,Food
+2025-05-18,Uber,32.23,debit,Transport,Transport
+2025-05-18,Bar/Club,62.36601181368041,debit,Entertainment,Entertainment
+2025-05-18,Fancy Dinner,196.58248607273862,debit,Food,Food
+2025-05-19,Car Insurance,105.39,debit,Transport,Transport
+2025-05-20,Uber,25.14,debit,Transport,Transport
+2025-05-22,Groceries,105.43,debit,Food,Food
+2025-05-23,Dining Out,73.33,debit,Food,Food
+2025-05-24,Electric Bill,135.38,debit,Utilities,Utilities
+2025-05-25,Bar/Club,119.61839626768945,debit,Entertainment,Entertainment
+2025-05-25,Fancy Dinner,215.12057888602016,debit,Food,Food
+2025-05-26,Netflix,41.88,debit,Entertainment,Entertainment
+2025-05-27,Spotify,47.95,debit,Entertainment,Entertainment
+2025-05-31,Gym,131.94,debit,Health,Health
+2025-06-01,Rent,2400.0,debit,Housing,Housing
+2025-06-01,Salary,5500.0,credit,Income,Income
+2025-06-01,Electric Bill,175.0831856878489,debit,Utilities,Utilities
+2025-06-01,Internet,60.0,debit,Utilities,Utilities
+2025-06-01,Netflix,15.99,debit,Entertainment,Entertainment
+2025-06-01,Spotify,9.99,debit,Entertainment,Entertainment
+2025-06-01,Gym,49.99,debit,Health,Health
+2025-06-01,Spotify,29.71,debit,Entertainment,Entertainment
+2025-06-02,Groceries,146.15,debit,Food,Food
+2025-06-03,Spotify,23.82,debit,Entertainment,Entertainment
+2025-06-06,Spotify,34.68,debit,Entertainment,Entertainment
+2025-06-07,Gym,104.21,debit,Health,Health
+2025-06-07,Bar/Club,71.6807415490177,debit,Entertainment,Entertainment
+2025-06-07,Fancy Dinner,241.03015509845824,debit,Food,Food
+2025-06-10,Dining Out,98.01,debit,Food,Food
+2025-06-11,Uber,22.38,debit,Transport,Transport
+2025-06-15,Electric Bill,134.02,debit,Utilities,Utilities
+2025-06-15,Bar/Club,72.12541482917601,debit,Entertainment,Entertainment
+2025-06-15,Fancy Dinner,165.41500352571938,debit,Food,Food
+2025-06-19,Amazon,74.78,debit,Shopping,Shopping
+2025-06-22,Uber,20.62,debit,Transport,Transport
+2025-06-22,Bar/Club,143.7278456521858,debit,Entertainment,Entertainment
+2025-06-22,Fancy Dinner,244.61256621819442,debit,Food,Food
+2025-06-28,Bar/Club,102.32993514173091,debit,Entertainment,Entertainment
+2025-06-28,Fancy Dinner,140.54470488328568,debit,Food,Food
+2025-06-29,Bar/Club,80.16553228730356,debit,Entertainment,Entertainment
+2025-06-29,Fancy Dinner,188.35824142236694,debit,Food,Food
+2025-06-30,Electric Bill,106.02,debit,Utilities,Utilities
+2025-07-01,Rent,2400.0,debit,Housing,Housing
+2025-07-01,Salary,5500.0,credit,Income,Income
+2025-07-01,Electric Bill,134.51342134854977,debit,Utilities,Utilities
+2025-07-01,Internet,60.0,debit,Utilities,Utilities
+2025-07-01,Netflix,15.99,debit,Entertainment,Entertainment
+2025-07-01,Spotify,9.99,debit,Entertainment,Entertainment
+2025-07-01,Gym,49.99,debit,Health,Health
+2025-07-01,Gym,293.53,debit,Health,Health
+2025-07-02,Dining Out,42.08,debit,Food,Food
+2025-07-05,Uber,40.26,debit,Transport,Transport
+2025-07-06,Bar/Club,53.40679860495248,debit,Entertainment,Entertainment
+2025-07-06,Fancy Dinner,105.53521866947655,debit,Food,Food
+2025-07-07,Groceries,127.15,debit,Food,Food
+2025-07-08,Gym,257.42,debit,Health,Health
+2025-07-11,Dining Out,78.11,debit,Food,Food
+2025-07-13,Bar/Club,65.72931387419433,debit,Entertainment,Entertainment
+2025-07-13,Fancy Dinner,168.70876981702793,debit,Food,Food
+2025-07-15,Dining Out,75.12,debit,Food,Food
+2025-07-16,Dining Out,62.23,debit,Food,Food
+2025-07-17,Dining Out,59.59,debit,Food,Food
+2025-07-19,Gym,217.01,debit,Health,Health
+2025-07-19,Bar/Club,87.83486858728556,debit,Entertainment,Entertainment
+2025-07-19,Fancy Dinner,134.97755681379834,debit,Food,Food
+2025-07-20,Amazon,266.88,debit,Shopping,Shopping
+2025-07-20,Bar/Club,112.61666047714074,debit,Entertainment,Entertainment
+2025-07-20,Fancy Dinner,119.58227043224872,debit,Food,Food
+2025-07-21,Groceries,165.7,debit,Food,Food
+2025-07-23,Uber,37.7,debit,Transport,Transport
+2025-07-24,Car Insurance,187.31,debit,Transport,Transport
+2025-07-26,Netflix,46.54,debit,Entertainment,Entertainment
+2025-07-26,Bar/Club,77.5245870133346,debit,Entertainment,Entertainment
+2025-07-26,Fancy Dinner,109.29063931250539,debit,Food,Food
+2025-07-27,Electric Bill,156.15,debit,Utilities,Utilities
+2025-07-27,Bar/Club,94.18322029855094,debit,Entertainment,Entertainment
+2025-07-27,Fancy Dinner,106.17171455730225,debit,Food,Food
+2025-07-29,Car Insurance,113.99,debit,Transport,Transport
+2025-07-30,Uber,37.68,debit,Transport,Transport
+2025-07-31,Car Insurance,153.93,debit,Transport,Transport
+2025-08-01,Rent,2400.0,debit,Housing,Housing
+2025-08-01,Salary,5500.0,credit,Income,Income
+2025-08-01,Electric Bill,120.79823316162744,debit,Utilities,Utilities
+2025-08-01,Internet,60.0,debit,Utilities,Utilities
+2025-08-01,Netflix,15.99,debit,Entertainment,Entertainment
+2025-08-01,Spotify,9.99,debit,Entertainment,Entertainment
+2025-08-01,Gym,49.99,debit,Health,Health
+2025-08-01,Uber,28.47,debit,Transport,Transport
+2025-08-03,Bar/Club,146.487139015938,debit,Entertainment,Entertainment
+2025-08-03,Fancy Dinner,200.61574263237003,debit,Food,Food
+2025-08-05,Gym,159.68,debit,Health,Health
+2025-08-06,Car Insurance,116.18,debit,Transport,Transport
+2025-08-07,Groceries,181.46,debit,Food,Food
+2025-08-08,Netflix,39.19,debit,Entertainment,Entertainment
+2025-08-09,Uber,26.19,debit,Transport,Transport
+2025-08-09,Bar/Club,95.46052458279834,debit,Entertainment,Entertainment
+2025-08-09,Fancy Dinner,119.45399293980236,debit,Food,Food
+2025-08-10,Uber,36.03,debit,Transport,Transport
+2025-08-11,Spotify,15.05,debit,Entertainment,Entertainment
+2025-08-16,Uber,24.96,debit,Transport,Transport
+2025-08-17,Bar/Club,86.71453861059516,debit,Entertainment,Entertainment
+2025-08-17,Fancy Dinner,119.87524153009461,debit,Food,Food
+2025-08-18,Uber,34.55,debit,Transport,Transport
+2025-08-22,Amazon,173.27,debit,Shopping,Shopping
+2025-08-23,Uber,30.3,debit,Transport,Transport
+2025-08-23,Bar/Club,100.30201350726472,debit,Entertainment,Entertainment
+2025-08-23,Fancy Dinner,152.65064832459746,debit,Food,Food
+2025-08-24,Gym,299.44,debit,Health,Health
+2025-08-24,Bar/Club,121.87374983851053,debit,Entertainment,Entertainment
+2025-08-24,Fancy Dinner,185.936052543649,debit,Food,Food
+2025-08-25,Dining Out,91.65,debit,Food,Food
+2025-08-26,Amazon,277.69,debit,Shopping,Shopping
+2025-08-27,Dining Out,85.17,debit,Food,Food
+2025-08-28,Dining Out,34.63,debit,Food,Food
+2025-08-29,Uber,37.65,debit,Transport,Transport
+2025-08-30,Car Insurance,139.46,debit,Transport,Transport
+2025-08-31,Bar/Club,88.80374118414562,debit,Entertainment,Entertainment
+2025-08-31,Fancy Dinner,216.4587876892431,debit,Food,Food
+2025-09-01,Rent,2400.0,debit,Housing,Housing
+2025-09-01,Salary,5500.0,credit,Income,Income
+2025-09-01,Electric Bill,175.76307301582918,debit,Utilities,Utilities
+2025-09-01,Internet,60.0,debit,Utilities,Utilities
+2025-09-01,Netflix,15.99,debit,Entertainment,Entertainment
+2025-09-01,Spotify,9.99,debit,Entertainment,Entertainment
+2025-09-01,Gym,49.99,debit,Health,Health
+2025-09-02,Car Insurance,157.19,debit,Transport,Transport
+2025-09-04,Groceries,112.57,debit,Food,Food
+2025-09-06,Electric Bill,184.53,debit,Utilities,Utilities
+2025-09-07,Uber,40.91,debit,Transport,Transport
+2025-09-08,Gym,212.07,debit,Health,Health
+2025-09-11,Gym,197.13,debit,Health,Health
+2025-09-13,Dining Out,63.25,debit,Food,Food
+2025-09-14,Spotify,32.32,debit,Entertainment,Entertainment
+2025-09-15,Netflix,32.86,debit,Entertainment,Entertainment
+2025-09-17,Netflix,20.64,debit,Entertainment,Entertainment
+2025-09-18,Netflix,21.24,debit,Entertainment,Entertainment
+2025-09-20,Gym,101.0,debit,Health,Health
+2025-09-21,Electric Bill,178.72,debit,Utilities,Utilities
+2025-09-22,Electric Bill,148.9,debit,Utilities,Utilities
+2025-09-25,Uber,37.85,debit,Transport,Transport
+2025-09-27,Bar/Club,54.598143945821846,debit,Entertainment,Entertainment
+2025-09-27,Fancy Dinner,123.92464584453546,debit,Food,Food
+2025-09-28,Gym,159.06,debit,Health,Health
+2025-09-28,Bar/Club,143.50660558118716,debit,Entertainment,Entertainment
+2025-09-28,Fancy Dinner,137.02522956221998,debit,Food,Food
+2025-09-30,Car Insurance,150.36,debit,Transport,Transport
+2025-10-01,Rent,2400.0,debit,Housing,Housing
+2025-10-01,Salary,5500.0,credit,Income,Income
+2025-10-01,Electric Bill,173.95636224087528,debit,Utilities,Utilities
+2025-10-01,Internet,60.0,debit,Utilities,Utilities
+2025-10-01,Netflix,15.99,debit,Entertainment,Entertainment
+2025-10-01,Spotify,9.99,debit,Entertainment,Entertainment
+2025-10-01,Gym,49.99,debit,Health,Health
+2025-10-01,Electric Bill,140.03,debit,Utilities,Utilities
+2025-10-02,Amazon,129.77,debit,Shopping,Shopping
+2025-10-04,Bar/Club,95.99221625567444,debit,Entertainment,Entertainment
+2025-10-04,Fancy Dinner,211.8035143859987,debit,Food,Food
+2025-10-06,Netflix,15.43,debit,Entertainment,Entertainment
+2025-10-07,Amazon,120.21,debit,Shopping,Shopping
+2025-10-08,Groceries,77.64,debit,Food,Food
+2025-10-09,Car Insurance,158.26,debit,Transport,Transport
+2025-10-10,Groceries,82.41,debit,Food,Food
+2025-10-12,Bar/Club,62.92215081969689,debit,Entertainment,Entertainment
+2025-10-12,Fancy Dinner,242.79103094338916,debit,Food,Food
+2025-10-15,Car Insurance,154.44,debit,Transport,Transport
+2025-10-17,Groceries,171.18,debit,Food,Food
+2025-10-18,Bar/Club,96.23424142922727,debit,Entertainment,Entertainment
+2025-10-18,Fancy Dinner,124.9355355552691,debit,Food,Food
+2025-10-19,Groceries,196.55,debit,Food,Food
+2025-10-19,Bar/Club,132.69377771436984,debit,Entertainment,Entertainment
+2025-10-19,Fancy Dinner,176.1721357580313,debit,Food,Food
+2025-10-20,Netflix,24.8,debit,Entertainment,Entertainment
+2025-10-21,Amazon,135.99,debit,Shopping,Shopping
+2025-10-23,Spotify,36.84,debit,Entertainment,Entertainment
+2025-10-25,Bar/Club,63.06179358279246,debit,Entertainment,Entertainment
+2025-10-25,Fancy Dinner,244.25254623211381,debit,Food,Food
+2025-10-27,Uber,43.31,debit,Transport,Transport
+2025-10-28,Gym,124.68,debit,Health,Health
+2025-10-29,Amazon,236.16,debit,Shopping,Shopping
+2025-11-01,Rent,2400.0,debit,Housing,Housing
+2025-11-01,Salary,5500.0,credit,Income,Income
+2025-11-01,Electric Bill,139.52637218735225,debit,Utilities,Utilities
+2025-11-01,Internet,60.0,debit,Utilities,Utilities
+2025-11-01,Netflix,15.99,debit,Entertainment,Entertainment
+2025-11-01,Spotify,9.99,debit,Entertainment,Entertainment
+2025-11-01,Gym,49.99,debit,Health,Health
+2025-11-01,Bar/Club,110.22380323854024,debit,Entertainment,Entertainment
+2025-11-01,Fancy Dinner,137.67361040439374,debit,Food,Food
+2025-11-02,Car Insurance,184.44,debit,Transport,Transport
+2025-11-05,Gym,108.48,debit,Health,Health
+2025-11-06,Amazon,190.77,debit,Shopping,Shopping
+2025-11-07,Groceries,129.86,debit,Food,Food
+2025-11-08,Netflix,21.64,debit,Entertainment,Entertainment
+2025-11-08,Bar/Club,113.2179211650445,debit,Entertainment,Entertainment
+2025-11-08,Fancy Dinner,202.15287031101838,debit,Food,Food
+2025-11-12,Amazon,299.59,debit,Shopping,Shopping
+2025-11-13,Gym,126.13,debit,Health,Health
+2025-11-14,Gym,107.34,debit,Health,Health
+2025-11-15,Spotify,26.54,debit,Entertainment,Entertainment
+2025-11-16,Bar/Club,98.13587548352217,debit,Entertainment,Entertainment
+2025-11-16,Fancy Dinner,190.7146644226929,debit,Food,Food
+2025-11-17,Groceries,100.21,debit,Food,Food
+2025-11-18,Gym,251.24,debit,Health,Health
+2025-11-22,Electric Bill,131.73,debit,Utilities,Utilities
+2025-11-22,Bar/Club,67.69554697774134,debit,Entertainment,Entertainment
+2025-11-22,Fancy Dinner,249.0863877656298,debit,Food,Food
+2025-11-23,Car Insurance,170.48,debit,Transport,Transport
+2025-11-24,Electric Bill,106.41,debit,Utilities,Utilities
