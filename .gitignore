@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+
+# Environment variables
+.env
+*.env
+
+# Node
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+
+# Build artifacts
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Cloud Build
+.gcloudignore
+
+# Test data (keep sample CSVs)
+# transactions_12months.csv  # Uncomment if you don't want to commit
